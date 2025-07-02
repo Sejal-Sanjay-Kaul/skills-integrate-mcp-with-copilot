@@ -22,7 +22,8 @@
       "description": "GitHub Personal Access Token",
       "password": true
     }
-  ]
+  ],
+  "enableClaudeSonnet3_5": true
 }
 // Test change for PR workflow
 
@@ -30,6 +31,8 @@
 // This is a placeholder for future MCP server features
 // Example: Enable verbose logging
 // "verboseLogging": true
+
+
 
 // --- MCP/GitHub Skills Issue Placeholders ---
 // Bug: Missing School Pride - Placeholder for school pride feature or fix
